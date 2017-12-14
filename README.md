@@ -5,9 +5,17 @@ A Django 'hello world' example.
 
 For run this example need to create a virtual environment:
 
- Install virtual environemnt   $ pip install virtualenv
- Create a virtual environment  $ virtualenv -p /usr/local/bin/python3 env
- Activate the virtual environment  $ source env/bin/activate
+ Install virtual environemnt   
+ 
+    $ pip install virtualenv
+
+ Create a virtual environment  
+ 
+    $ virtualenv -p /usr/local/bin/python3 env
+
+ Activate the virtual environment 
+ 
+    $ source env/bin/activate
 
 To install Django framework execute the follow command::
 
@@ -48,4 +56,3 @@ And open the following URL in your web browser:
 
 ![And you can see the hello world example like this :](https://github.com/somyagarg94/helloworld/raw/master/docs/django_hello.png)
 
-A Django 'Hello World' example
