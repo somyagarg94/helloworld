@@ -19,10 +19,7 @@ CLASSIFIERS = [
 ]
 
 setup(
-    author="Alex Clark",
-    author_email="aclark@aclark.net",
-    maintainer='Leonardo J. Caballero G.',
-    maintainer_email='leonardocaballero@gmail.com',
+    author="Somya Garg",
     name='helloworld',
     version='0.1',
     description='A Django hello world example ',
